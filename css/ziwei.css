@@ -1,0 +1,77 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.x{
+	float: left;
+}
+.x a:hover{
+	color: red;
+	cursor: pointer;
+}
+.y{
+	float: right;
+}
+.d1{
+	height: 652px;
+	background: #fbfbfb;
+}
+.e1{
+	width: 1200px;
+	height: 65px;
+	line-height:65px;
+	font-size: 14px;
+	margin: 0 auto;
+}
+.e2{
+	width: 1200px;
+	height: 561px;
+	margin: 0 auto;
+}
+.e2 .e3{
+	width: 214px;
+	height: 41px;
+	background: #fff;
+	line-height: 41px;
+	font-size: 16px;
+	text-indent: 75px;
+	margin: 0 12px 10px 0;
+}
+.e2 .e4{
+	height:500px ;
+}
+.e2 ul{
+	width:974px ;
+	height:551px ;
+	background: #fff;
+}
+.e2 ul>li{
+	width: 220px;
+	height: 251px;
+	border:1px solid #dbdbdb;
+	margin: 15px 0 0 17px;
+	text-align: center;
+}
+.e2 ul>li img{
+	margin-top: 25px;
+}
+.e2 ul>li a{
+	display: block;
+	color: #a3a3a3;
+	margin: 18px 0 10px 0;
+}
+.e2 ul>.pj img{
+	margin: 10px;
+}
+.e2 ul>.j a{
+	margin: 10px 0 10px 0;
+}
+.e2 ul>.h img{
+	margin-top:10px ;
+}

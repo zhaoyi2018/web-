@@ -1,0 +1,126 @@
+/*
+* @Author: 18196
+* @Date:   2019-12-25 11:16:26
+* @Last Modified by:   赵倚
+* @Last Modified time: 2019-12-25 19:17:17
+*/
+li{
+	list-style: none;
+}
+.box_out{
+	width: 560px;
+	height: 557px;
+	border: 1px solid #d9d9d9;
+	float: right;
+	margin-top: 65px;
+	margin-right: 20px;
+}
+.box_in1{
+	width: 560px;
+	height: 60px;
+	border-bottom: 1px solid #E9ECF0;
+}
+.box_in1 p{
+	margin-top: 2px;
+}
+.box_in1 span{
+	color: #ff6600;
+}
+.box_in2{
+	width: 560px;
+	height: 250px;
+	border-bottom: 1px solid #E9ECF0;
+	margin-top: 25px;
+}
+.box_in2 .bi_sp{
+	margin-right: 25px;
+}
+.box_in2 .bi_d{
+	display: inline-block;
+	color: #ff6600;
+	border: 1px solid #E9ECF0;
+	cursor: pointer;
+	position: relative;
+}
+.box_in2 .bi_dd{
+	position: absolute;
+	cursor: default;
+	width: 380px;
+	height: 280px;
+	border: 1px solid #E9ECF0;
+	background: white;
+	top: 18px;
+	left: 0;
+}
+.box_in2 .bi_ul{
+	padding-left: 0;
+	border-bottom: 1px solid #E9ECF0;
+	height: 21px;
+	position: relative;
+}
+.box_in2 .bi_ul li{
+	float: left;
+	border: 1px solid red;
+	color: blue;
+	margin-right:5px;
+	cursor: pointer;
+}
+.box_in2 .bi_dd .bi_ddd{
+	width: 360px;
+	height: 170px;
+	position: absolute;
+	border: 1px solid #FFFF;
+	left: 8px;
+	top: 30px;
+}
+.box_in2 .bi_dd .bi_ddd li{
+	float: left;
+	width: 60px;
+	margin-right: 20px;
+	margin-top: 10px;
+	border: none;
+	color: black;
+	cursor: pointer;
+}
+.box_in3{
+	width: 560px;
+	height: 40px;
+}
+.box_in3 li{
+	float: left;
+	text-align: center;
+	width: 90px;
+	height: 30px;
+	line-height: 30px;
+	border: 4px solid #E9ECF0;
+	margin-left: 10px;
+	cursor: pointer;
+}
+.box_in4{
+	width: 128px;
+	height: 58px;
+	margin-top: 20px;
+	display: none;
+}
+.a1{
+	cursor: pointer;
+	width: 142px;
+	height: 42px;
+	text-align: center;
+	line-height: 42px;
+	border: 1px solid #ff6600;
+	margin-left: 10px;
+	font-size: 20px;
+	float: left;
+}
+.a2{
+	cursor: pointer;
+	width: 142px;
+	height: 42px;
+	text-align: center;
+	line-height: 42px;
+	background: #ff6600;
+	margin-left: 20px;
+	font-size: 20px;
+	float: left;
+}

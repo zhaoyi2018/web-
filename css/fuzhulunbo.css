@@ -1,0 +1,39 @@
+.xrb{
+	display: inline-block;
+	width: 450px;
+	height: 557px;
+	margin: 65px 35px;
+	border: 1px solid #d9d9d9;
+}
+.web3{
+	border:1px solid #d9d9d9;
+	width: 1138px;
+	height: 688px;
+	margin: 0 auto;
+}
+.xrb .soBig{
+	width: 430px;
+	height: 430px;
+	margin: 10px 10px;
+	/* border: 1px solid black; */
+	/* padding: 10px 0; */
+	overflow: hidden;
+}
+.xrb .soSmall{
+	width: 430px;
+	height: 68px;
+	/* border: 1px solid black; */
+	margin: 7px 10px;
+}
+.xrb .soSmall img:first-child{
+	margin-left:42px ;
+}
+.xrb .soSmall img{
+	border: 2px solid #d9d9d9;
+	display: inline-block;
+	margin-right:52px ;
+	height: 70px;
+	width: 70px;
+	cursor: pointer;
+	/* border: 1px solid black; */
+}

@@ -1,0 +1,110 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+li{
+	list-style: none;
+}
+.bigCart{
+	position: absolute;
+	right: 0;
+	left: 0;
+	text-align: center;
+}
+.web4-cart ul li .textN{
+	width: 30px;
+	height: 20px;
+}
+.web4-cart ul li .btn4{
+	width: 20px;
+	height: 20px;
+}
+.web4-bt{
+	height: 40px;
+	padding: 0 20px;
+}
+.web4-Bg{
+	width: 988px;
+	margin: 0 auto;
+	background-color:#EBEBEB ;
+	color: #737373;
+	border: 1px solid black;
+}
+#cz4 ul{
+	height: 20px;
+	width: 948px;
+	line-height: 20px;
+	padding:10px 0;
+}
+.web4-bt ul li{
+	float: left;
+	margin-left: 122px;
+	display: inline-block;
+}
+.web4-cart ul li{
+	display: inline-block;
+	margin-left:0px ;
+	width: 149px;
+	line-height: 90px;
+	text-align: center;
+	height: 90px;
+	overflow: hidden;
+}
+.web4-cart ul{
+	height: 90px;
+	width: 985px;
+}
+.web4-cart{
+	padding: 15px 20px;
+	/* height: 90px; */
+	position: relative;
+	text-align: center;
+	left: 0;
+	right: 0;
+	background-color: #fff;
+}
+/* .ku1{
+	background: url("../images/a15.png") no-repeat;
+} */
+.ku2{
+	text-decoration: line-through;
+}
+.ku3{
+	font-weight: 900;
+}
+.ku5 span{
+	cursor: pointer;
+}
+.web4-zhifu{
+	height: 40px;
+	line-height: 40px;
+	font-weight: 900;
+}
+.web4-zhifu div{
+	display: inline-block;
+	margin-top: 2.5px;
+	cursor: pointer;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	background-color: #ff6a00;
+	color: #fff;
+}
+#bg1{
+	margin-bottom: 30px;
+}
+.imgg1{
+	position: relative;
+}
+.imgg2{
+	position: absolute;
+	/* z-index: 1; */
+	width: 25px;
+	border: 1px solid #fff;
+	border-radius: 90%;
+	cursor: pointer;
+	left: 800px;
+	top: 90px;
+	text-align: center;
+	background-color: #ff6a00;
+}

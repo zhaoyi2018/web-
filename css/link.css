@@ -1,0 +1,70 @@
+/*
+* @Author: 18196
+* @Date:   2019-12-20 22:03:25
+* @Last Modified by:   18196
+* @Last Modified time: 2019-12-24 17:33:36
+*/
+li{
+	list-style: none;
+}
+div{
+	display: block;
+}
+.link_first{
+	position: fixed;
+	top: 0;
+	right: 0;
+	width: 34px;
+	height: 100%;
+	background-color: #595656;
+}
+.link_li{
+	position: absolute;
+	top: 150px;
+	left: 0;
+	width: 34px;
+	height: 400px;
+}
+.link_li li{
+	margin-top: 15px;
+	position: relative;
+}
+.link_li li .div1{
+	position: absolute;
+	top: 0px;
+	right: 34px;
+	width: 250px;
+	height: 200px;
+	background: white;
+	display: none;
+}
+.link_li li .div1 .div11{
+	margin-top: 20px;
+	text-align: center;
+}
+.link_li li .div1 .div12{
+	line-height: 36px;
+}
+.link_li li .div2{
+	position: absolute;
+	text-align: center;
+	line-height: 36px;
+	top: 0px;
+	right: 34px;
+	width: 100px;
+	height: 36px;
+	background: white;
+	display: none;
+}
+.link_li li span{
+	margin-left: 10px;
+}
+.link_li .sp{
+	margin-top: 0px;
+	margin-left: 8px;
+	width: 20px;
+	height: 20px;
+	background-color: #ff6600;
+	border-radius: 50%;
+	text-align: center;
+}

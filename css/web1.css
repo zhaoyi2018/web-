@@ -1,0 +1,158 @@
+ *{
+	padding: 0px;
+	margin: 0px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+span{
+	vertical-align: middle;
+}
+li{
+	list-style: none;
+}
+#bg1 .ceil{
+	height: 35px;
+	background-color: #f2f2f2;
+}
+#bg1 .styCla{
+	width: 1200px;
+	margin: 0 auto;
+	line-height: 35px;
+	height: 35px;
+}
+#bg1 .styCla span{
+	display: inline-block;
+	height: 24px;
+	width: 24px;
+}
+#bg1 .styCla .left{
+	float: left;
+	margin-left: 10px;
+}
+#bg1 .styCla .right{
+	float: right;
+	margin-right: 10px;
+}
+#bg1 .styCla a{
+	font-size: 12px;
+	color: #737373;
+	height: 35px;
+}
+#bg1 .styCla a:hover{
+	background-color: #fff;
+	color: #ff6a00;
+}
+#bg1 .search{
+	height: 100px;
+	width: 1200px;
+	margin: 0 auto;
+}
+#bg1 .search .a-bg{
+	float: left;
+	width: 470px;
+	height: 64px;
+	margin-top: 28px;
+}
+#bg1 .search .a-bg a{
+	display: inline-block;
+	background: url("../images/logo.jpg") no-repeat;
+	width: 133px;
+	height: 61px;
+	margin-left: 70px;
+}
+#bg1 .search .search1{
+	float: left;
+	margin-top: 45px;
+	width: 320px;
+	height: 37px;
+}
+#bg1 .search1 div{
+	border: 1px solid #ff6a00;
+	height: 35px;
+}
+#bg1 .search1 div input{
+	padding-left: 6px;
+	outline: none;
+	height: 33px;
+	border: 0px;
+	width: 246px;
+}
+#bg1 .search1 div button{
+	width: 61px;
+	border: 0px;
+	height: 35px;
+	font-size: 13.3px;
+	background-color: #ff6a00;
+	color: #fff;
+	cursor: pointer;
+}
+#bg1 .search .right{
+	float: right;
+	margin-top: 45px;
+	height: 37px;
+	line-height: 37px;
+}
+#bg1 .search .right a{
+	float: left;
+	margin-right: 20px;
+	color: #737373;
+}
+#bg1 .search .right a span{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	background: no-repeat;
+	padding-right: 5px;
+}
+#bg1 .sort{
+	width: 1200px;
+	height: 40px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+#bg1 .sort ul{
+	float: left;
+	height: 40px;
+	line-height: 40px;
+}
+#bg1 .sort ul li{
+	float: left;
+	font-weight: 900;
+	text-align: center;
+	width: 140px;
+}
+#bg1 .sort ul li a:hover{
+	color:#ff6a00 ;
+}
+#bg1 .sort ul li:first-child{
+	width: 200px;
+	background-color:#ff6a00 ;
+}
+#bg1 .box3 .b3ul{
+	width: 1200px;
+	height: 65px;
+	margin: 5px auto;
+	border: 1px solid #f2f2f2;
+}
+#bg1 .box3 .b3ul li{
+	border-radius: 70%;
+	border: 2px solid #ddf2ff;
+	width: 196px;
+	height: 50px;
+	margin: 10px 20px;
+	float: left;
+	cursor: pointer;
+	font-weight: 900;
+}
+#bg1 .box3 .b3ul li span:first-child{
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	margin-right: 10px;
+	margin-left: 28px;
+}
+#bg1 .box3 .b3ul li:hover{
+	color:#ff6a00 ;
+}

@@ -1,0 +1,25 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+/* #bg1 .ceil{
+	position: absolute;
+	top: 0px;
+} */
+#bg1 .bg31{
+	position: absolute;
+	background-color: #fcfce7 ;
+	height: 100%;
+	width: 100%;
+	top: 35px;
+	bottom: 0px;
+}
+#bg1 .bg31 h1{
+	width: 20px;
+	float: left;
+	position: relative;
+	top: 100px;
+	left: 700px;
+	/* display: inline-block; */
+	/* z-index: 0; */
+}

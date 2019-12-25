@@ -1,0 +1,86 @@
+/*
+* @Author: 18196
+* @Date:   2019-12-24 17:50:31
+* @Last Modified by:   赵倚
+* @Last Modified time: 2019-12-25 16:04:44
+*/
+li{
+	list-style: none;
+}
+.box_first{
+	display: inline-block;
+	width: 440px;
+	height: 430px;
+	background: white;
+	margin-left: 550px;
+	margin-top: 100px;
+	opacity: 0;
+	z-index: 1;
+}
+.box_second{
+	width: 440px;
+	height: 56px;
+	background: white;
+	border-bottom: 1px solid #E9ECF0
+}
+.box_second .bs_sp1{
+	line-height: 56px;
+	font-size: 25px;
+	color: #ff6600;
+	cursor: default;
+}
+.box_second .bs_sp2{
+	margin-left: 50px;
+	font-size: 20px;
+	color: blue;
+	cursor: default;
+
+}
+.box_three{
+	width: 320px;
+	height: 42px;
+	border: 1px solid #737373;
+	margin-top: 10px;
+	margin-left: 60px;
+}
+.box_three .bt_sp{
+	float: left;
+	line-height: 42px;
+	margin-left: 5px;
+}
+.box_four{
+	position: relative;
+	width: 320px;
+	margin: 10px 60px;
+	height: 16px;
+}
+.box_five{
+	width: 320px;
+	height: 42px;
+	margin-left: 60px;
+	margin-top: 20px;
+	text-align: center;
+	line-height: 42px;
+	cursor: pointer;
+	color: white;
+	font-size: 20px;
+	border-radius: 24px;
+	background: #ff6600;
+}
+.box_five a{
+	color: white;
+}
+.box_six{
+	width: 320px;
+	height: 42px;
+	margin-top: 40px;
+	margin-left: 60px;
+}
+.box_six li{
+	float: left;
+	height: 42px;
+	margin-left: 55px;
+}
+.box_six li img{
+	margin-top: 15px;
+}
